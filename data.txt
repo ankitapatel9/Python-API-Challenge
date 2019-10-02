@@ -1,0 +1,3 @@
+Weather API
+
+based on the city dataset we figured that only relieabe plot is lattitude vs temprature. All other data has no relation between each other.
